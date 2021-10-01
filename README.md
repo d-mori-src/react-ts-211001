@@ -44,7 +44,7 @@ $ npm install json-server
     "json-server": "json-server --watch db.json --port 3001" // port3000はReactのサーバーとバッティングするので変更
   },
 ```
-`　
+　
 `json-server`起動
 　
 ```zsh
