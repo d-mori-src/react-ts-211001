@@ -1,0 +1,7 @@
+{
+  "users": [
+    { "id": 1, "name": "mori", "age": 39, "personalColor": "blue" },
+    { "id": 2, "name": "yamada", "age": 50, "personalColor": "green" },
+    { "id": 3, "name": "sato", "age": 20, "personalColor": "red", "hobbies": ["game", "soccer"] }
+  ]
+}
